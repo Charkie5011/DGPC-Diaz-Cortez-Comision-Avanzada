@@ -1,0 +1,39 @@
+{
+    "alumnos":[
+        {
+            "nombre":"Luis Caleni",
+            "carrera":"Diseño de Imagen y Sonido",
+            "email":"luis.caleni@gmail.com",
+            "foto":"1.jpg",
+            "id":"1"
+        },
+        {
+            "nombre":"Leslie Alaya Flores",
+            "carrera":"Diseño de Imagen y Sonido",
+            "email":"lesliealaya66@gmail.com",
+            "foto":"2.jpg",
+            "id":"2"
+        },
+        {
+            "nombre":"Soledad Merolla",
+            "carrera":"Diseño Gráfico",
+            "email":"",
+            "foto":"3.jpg",
+            "id":"3"
+        },
+        {
+            "nombre":"Rocio Peralta",
+            "carrera":"Diseño Gráfico",
+            "email":"",
+            "foto":"4.jpg",
+            "id":"4"
+        },
+        {
+            "nombre":"Morena Joos",
+            "carrera":"Diseño Gráfico",
+            "email":"",
+            "foto":"5.jpg",
+            "id":"5"
+        }
+    ]
+}

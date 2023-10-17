@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: darkgrey;
+    font-family: monospace;
+    color: white;
+    padding: 10px;
+}
+.inputPagina{
+    background-color: white;
+    color: black;
+    font-size: 1.5rem;
+    width: 6rem;
+    border-style: none;
+    margin-left: auto;
+}
+#btnBuscar{
+    font-size: 25px;
+    border-style: hidden;
+    background-color: black;
+    width: 12rem;
+}
+.fichaDiv{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    align-items: center;
+}
+.fichaImg{
+    width: 20rem;
+    height: auto;
+}
+a{
+    font-size: 15px;
+    margin-left: auto;
+}
